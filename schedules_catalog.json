@@ -1,4 +1,11 @@
 {
-  "schedules": [],
+  "schedules": [
+    {
+      "name": "a",
+      "time": "a",
+      "day": "a",
+      "location": "a"
+    }
+  ],
   "ads": []
 }
