@@ -1,5 +1,12 @@
 {
-  "schedules": [],
+  "schedules": [
+    {
+      "name": "a",
+      "time": "a",
+      "day": "a",
+      "location": "aa"
+    }
+  ],
   "ads": [
     "a"
   ]
